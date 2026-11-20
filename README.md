@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Marcus Saputra
 
-<!--
-**linaortiz9/linaortiz9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings! I am a site reliability engineer (SRE). I monitor, scale, and secure production environments, ensuring that service level objectives (SLOs) are always met and exceeded.
 
-Here are some ideas to get you started:
+### Current Focus
+- Optimizing database queries, caching layers, and developer workflows
+- Building reliable backend APIs and distributed services
+- Designing fault-tolerant microservices and event-driven pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Stack
+`C++, Rust, Java, Git, Nginx, Python, Css3, Go, Vue.Js`
+
+---
+> *The most disastrous thing that you can ever learn is your first programming language.*
